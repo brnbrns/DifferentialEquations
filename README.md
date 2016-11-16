@@ -8,5 +8,7 @@ Solves differential equations of the form:
 
 ## system.py
 Solves a system of differential equations of the form:
-`x' = ax + by
-y' = cx + dy`
+```
+x' = ax + by
+y' = cx + dy
+```
