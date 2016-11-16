@@ -1,6 +1,5 @@
 ###############
 # Brian Burns
-#  MATH 238
 # ay'' + by' + cy = 0
 # secondOrder.py
 ###############
