@@ -1,6 +1,5 @@
 ###############
 # Brian Burns
-#  MATH 238
 # x' = ax + by, y' = cx + dy
 # system.py
 ###############
