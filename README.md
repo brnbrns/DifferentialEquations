@@ -2,7 +2,7 @@
 
 This repository contains python code for solving differential equations.
 
-## SecondOrder.py
+## secondOrder.py
 Solves differential equations of the form:
 ```
 ay'' + by' + cy = 0
